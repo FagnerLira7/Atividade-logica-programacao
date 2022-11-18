@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T00:13:53.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="RGW1lh_iqFeCdm0zbSjf" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T00:15:43.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="SP2CL8unSxHnbPInF5Ei" version="20.5.3" type="github">
   <diagram id="eK3s99b0BtH-zdK8mQMB" name="Página-1">
     <mxGraphModel dx="3035" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -240,7 +240,7 @@
         <mxCell id="iXsCN2mJMbFnaJbUMsfa-125" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.68;dx=28.5;direction=south;notch=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-495" y="167.5" width="25" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iXsCN2mJMbFnaJbUMsfa-128" value="Estoque=subtrair" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iXsCN2mJMbFnaJbUMsfa-128" value="estoque=subtrair" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-660" y="513.25" width="122" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iXsCN2mJMbFnaJbUMsfa-129" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rotation=-179;" vertex="1" parent="1">
